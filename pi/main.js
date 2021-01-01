@@ -3,8 +3,8 @@
 var p = [];
 // p.push({x:1.0,y:0.0});
 
-// var c = 5000000000;
-var c = 100;
+var c = 1000000000;
+// var c = 100;
 var d = 1/c;
 // console.log(d);
 
